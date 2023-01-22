@@ -11,70 +11,77 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Salmon Cookies",
+        "startDate": "2022",
+        "description": "An application that calculates the average amount of cookies sold per hour based on customer volume. This app also calculate each hours total cookies for each hour of day and shows the total cookies sold per store location as well as total of all stores! Additional store information can be added to the data table in the app.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/salmoncookies/SalmonCookies1.png",
+          "images/portfolio/salmoncookies/SalmonCookies2.png",
+          "images/portfolio/salmoncookies/SalmonCookies3.png"
         ],
-        "url": "",
+        "url": "https://ostyantic.github.io/cookie-stand/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain-wordmark",
+            "name": "HTML 5"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain-wordmark",
+            "name": "CSS 3"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Odd Duck Products",
+        "startDate": "2022",
+        "description": "This application was created to allow users to vote for 1 out of 3 randomly rendered images. The user receives 25 votes total and each time they vote, a new selection of images are rendered. After 25 votes, the user is able to view the results of votes which renders a list detailing how many views each image has, and their vote count. A bar graph is also rendered when the user clicks to view their results!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/odd-duck/OddDuck1.png",
+          "images/portfolio/odd-duck/OddDuck2.png",
+          "images/portfolio/odd-duck/OddDuck3.png"
         ],
-        "url": "https://github.com",
+        "url": "https://ostyantic.github.io/odd-duck/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain-wordmark",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain-wordmark",
+            "name": "CSS 3"
+          }
+        ]
+      },
+      {
+        "title": "Simon Says",
+        "startDate": "2022",
+        "description": "A memory game that focuses on selecting a pattern of colors decided by 'Simon'. This is a game that is very begginer friendly and also challenging for those who want to test their memory skills! At the start of each round, 'Simon' picks a pattern of colors starting at one and adding a new color to the aforemention pattern each time the player completes the sequence. The speed at which each color is added is also incremented (the higher the level, the faster the speed). Each correct color grants the player a point and each point is tallied until the play picks the wrong color. At game over, the player inputs their name and their score is recorded. The top 10 highest scores are recorded for all players to compete against!",
+        "images": [
+          "images/portfolio/simonsays/Gameboard.png",
+          "images/portfolio/simonsays/Leaderboard.png",
+          "images/portfolio/simonsays/BackgroundSelector.png"
+        ],
+        "url": "GittBizzy.github.io/SimonSays/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain-wordmark",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain-wordmark",
+            "name": "CSS 3"
           }
         ]
       }
