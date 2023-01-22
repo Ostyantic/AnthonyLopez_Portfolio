@@ -28,9 +28,9 @@ Estimate of time needed to complete: 1hr
 
 Start time: 1/21 @ 7:46pm EST
 
-Finish time: _____
+Finish time: 1/21 @ 8:24pm EST
 
-Actual time needed to complete: _____
+Actual time needed to complete: 38min
 
 ## Feature 4 - Skills and Experience Sections
 
