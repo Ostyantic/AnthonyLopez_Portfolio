@@ -18,15 +18,15 @@ Estimate of time needed to complete: 45min
 
 Start time: 1/21 @ 7:15pm EST
 
-Finish time: _____
+Finish time: 1/21 @ 7:43pm EST
 
-Actual time needed to complete: _____
+Actual time needed to complete: 38min
 
 ## Feature 3 - Projects Section
 
-Estimate of time needed to complete: _
+Estimate of time needed to complete: 1hr
 
-Start time: 1/21 @  EST
+Start time: 1/21 @ 7:46pm EST
 
 Finish time: _____
 
